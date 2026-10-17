@@ -2,11 +2,15 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel sürüm · v0.8.18
+## Güncel oyun sürümü · v0.8.19
+
+Çevrimiçi galibiyet +25 RP ve 5 altın kazandırır. 7 rütbe arasında 12 gümüş, altın ve kart ödülü vardır. **Derece** sekmesinden ilerlemeni ve ödül kartlarını inceleyebilirsin. Derece bu cihazdaki oyun kaydında tutulur.
+
+Mevcut v0.8.18 Windows uygulamasını yeniden açarak v0.8.19 oyun içeriğini otomatik alabilirsin. Aşağıdaki Windows paketleri aynı güncellemeyi ilk açılışta alır.
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.18/Astral-Duello-Kurulum-v0.8.18.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.18/Astral-Duello-Uygulama-v0.8.18.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.18/Astral-Duello-v0.8.18.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.19/Astral-Duello-v0.8.19.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
