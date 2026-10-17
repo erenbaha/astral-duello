@@ -2,19 +2,19 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun sürümü · v0.8.20
+## Güncel oyun sürümü · v0.8.21
 
-Çevrimiçi galibiyet +25 RP ve 5 altın kazandırır. 7 rütbe arasındaki 12 basamak yalnız gümüş ve altın verir; derece kart ödülleri kaldırıldı.
+**Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
-8 karakterin bağımsız seviyesi ve XP’si vardır. Yapay zekâ ve çevrimiçi galibiyet +100, yenilgi +50 XP verir. Her yeni seviyede karakterin kendi destesinden 1 kart, her 10. seviyede ana kartı kazanılır. Karakter panelinden veya **Derece → Karakter seviyeleri** yolundan gelişim ve sıradaki kartlar incelenebilir.
+Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu seçili bırak. Her oyuncu kendi cihazında bu işlemi uygular. Başka bilgisayarda aynı hesaba giriş yapınca kayıt açılır. Üyelikte gösterilen kurtarma anahtarını sakla; şifreni unuttuğunda gereklidir. Çevrimiçi düello için giriş yapmak gerekir; misafir olarak tek oyunculu oynanabilir.
 
-Koleksiyonda aynı karttan 5, destede 3 kopya bulunabilir. Tekil (T) sınırı 1’dir. Fazla kopya başına dönüşüm: **N 2 gümüş · R 5 gümüş · RR 10 gümüş · SR 1 altın · UR 2 altın · T 30 altın**. Eski kartlar, cüzdan, derece ve 32 deste yuvası korunur. Derece ve karakter gelişimi bu cihazdaki oyun kaydında tutulur.
+[Hesap servisi](https://astral-duello-hesap.fuzzyloon33.chatgpt.site) kalıcı veritabanında her oyuncunun kaydını ayrı tutar. İki cihazın ilerlemesi farklıysa kullanılacak kayıt seçilir. Derece para ödülleri, karakter seviyeleri ve koleksiyonda 5/destede 3 kopya sınırı korunur. Tekil kart sınırı 1; fazla T kopyası 30 altın verir.
 
-Mevcut v0.8.18 Windows uygulamasını yeniden açarak v0.8.20 oyun içeriğini otomatik alabilirsin. Aşağıdaki Windows paketleri aynı güncellemeyi ilk açılışta alır.
+Mevcut v0.8.18 Windows uygulamasını yeniden açarak v0.8.21 oyun içeriğini otomatik alabilirsin. Aşağıdaki Windows paketleri aynı güncellemeyi ilk açılışta alır.
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.18/Astral-Duello-Kurulum-v0.8.18.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.18/Astral-Duello-Uygulama-v0.8.18.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.20/Astral-Duello-v0.8.20.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.21/Astral-Duello-v0.8.21.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
