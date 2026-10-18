@@ -2,9 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun sürümü · v0.8.25
+## Güncel oyun sürümü · v0.8.26
 
-Düello sırasında kullanılan Ana ve Ek Deste incelenebilir; kalan kopyalar gösterilir, çekilecek kartların sırası açıklanmaz. Son vuruşun tam hasarı görünür ve can puanı 0’da kalır. İlk karakterin adı Astral oldu. Oyun doğrudan ana menüye açılır; kayıtlı hesap arka planda kontrol edilir. Kart kütüphanesi ve deste havuzunda sahip olunmayan kartlar gizlenebilir. Füzyon kartlarında gereken malzemelerin görselleri ve kopya adetleri gösterilir. Ana deste sınırı 30–40, Ek Deste en fazla 15 karttır; eski büyük özel desteler düzenlenebilir taslak olarak korunur. Windows uygulaması v0.8.22 bu oyun güncellemesini otomatik alır. Çevrimiçi iki oyuncu da v0.8.25 kullanmalıdır.
+Düello içindeki Destem ve Maç geçmişi, tahtanın sağındaki küçük sekmeli panelde açılır. Deste kartları küçük resimler ve kopya/kalan kart sayılarıyla listelenir; tıklanınca büyür ve kapatıldığında aynı konuma dönülür. Geçmişte hamleler, yaşam puanı değişimleri ve ilgili kart görselleri incelenebilir. Panel açıkken tahta ve el kullanılabilir; yeni hamleler geçmişe eklenir. Ana menüdeki maç geçmişi kendi tam sayfasını kullanır. Windows uygulaması v0.8.22 bu imzalı oyun güncellemesini otomatik alır. v0.8.25 ile çevrimiçi uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -16,7 +16,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.22/Astral-Duello-Kurulum-v0.8.22.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.22/Astral-Duello-Uygulama-v0.8.22.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.25/Astral-Duello-v0.8.25.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.26/Astral-Duello-v0.8.26.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
