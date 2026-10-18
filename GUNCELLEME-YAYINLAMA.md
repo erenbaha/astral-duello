@@ -39,3 +39,10 @@ v0.1–v0.8.17 dosyaları `v0.8.17` arşiv yayını altında, özgün dosya adla
 
 Yerel uygulama v0.8.22 Chromium/Windows ağ ayarlarını kullanır, geçici hatalarda bir kez yeniden dener ve ana bildirim erişilemiyorsa yedek bildirime geçer. Hata ayrıntısı ayarlarda ve kullanıcı veri klasöründeki update-status.json içinde bulunur. Açılışta mevcut oyunla devam düğmesi vardır; indirilen yeni oyun, süren düelloyu yeniden yüklemez.
 
+
+
+## v0.8.28 · Geri gezinme ve oyuna dönüş
+
+Oyun açılınca güncelleme ekranı native pencere geçmişinden çıkarılır. Mouse geri/ileri ve Alt+Sol/Sağ oyunu açılış ekranına götürmez. Güncelleme ve ayarlar ekranında Oyunu başlat düğmesi her zaman görünür; aynı komut Oyun menüsünde de bulunur. Açık düello yeniden yüklenmeden o pencereye dönülür. Eşzamanlı kontroller tek indirme ve gerektiğinde tek ekran yenilemesi yapar.
+
+Bu değişiklik Windows uygulama kabuğundadır: v0.8.28 kurulum ve taşınabilir ZIP paketleri de yayımlanır. Oyun HTML güncellemesi eski EXE dosyasını değiştirmez; önceki uygulamayı kullanan oyuncular yeni paketi bir kez açmalıdır. Kayıtlar %APPDATA%/AstralDuello altında korunur.
