@@ -2,9 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun sürümü · v0.8.23
+## Güncel oyun sürümü · v0.8.24
 
-Yankı Silindirleri için saldırı iptali ve yansıma kontrolleri güçlendirildi. İptal edilmiş aynı saldırı tekrar savaş hasarı veremez; animasyon iptal ve yansıtılan miktarı açıkça gösterir. 460 oyun testi geçti. Bildirilen aralıklı durum doğrudan tekrarlanamadı; yeniden çözümlemeye karşı koruma eklendi. Windows uygulaması v0.8.22 bu oyun içeriğini otomatik alır. Çevrimiçi oynayan iki oyuncu da v0.8.23 kullanmalı.
+Maç sonu ekranı yalnız o maçta kazanılan gümüş, altın, XP, kartlar ve RP değişimini gösterir. Toplam cüzdan bakiyesi, toplam RP ve XP ilerleme toplamı bu ekrandan kaldırıldı. Yeni kazanılan seviye ve rütbeler gösterilir. Galibiyet ve yenilgi görünümü kontrol edildi. Windows uygulaması v0.8.22 yeni oyun içeriğini otomatik alır; v0.8.23 ile çevrimiçi uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -16,7 +16,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.22/Astral-Duello-Kurulum-v0.8.22.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.22/Astral-Duello-Uygulama-v0.8.22.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.23/Astral-Duello-v0.8.23.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.24/Astral-Duello-v0.8.24.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
