@@ -2,11 +2,15 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.29 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.30 / Windows uygulaması · v0.8.28
 
-Bota karşı teslim olunan maçlarda para, XP ve seviye kartı ödülü verilmez; normal galibiyet/yenilgi ödülleri devam eder. Yapay zekâya karşı düellodan önce **Kolay, Orta veya Zor** seçilebilir. Sekiz aile için 24 farklı bot destesi vardır: Kolay daha zayıf, Orta daha güçlü destekli, Zor ise hazır destenin en güçlü kartlarını kullanır. **Kabus** yeni kartlarla açılmak üzere kilitli görünür. Oyuncunun destesi ve devam edilen maçtaki zorluk korunur.
+Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur ve rakip farklı aileden seçilir. Oda koduyla eşleşme değişmez.
 
-539 oyun/kayıt ve 14 gerçek oyun arayüzü kontrolü geçti. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
+Bu maçlar **derecelidir**: galibiyet +25 RP, 150 gümüş ve 5 altın; yenilgi veya teslim −10 RP (en az 0) ve 50 gümüş verir. Karakter XP ve derece yükselme ödülleri mevcut kurallarla sürer; aynı maç ikinci kez ödül kazandırmaz. İptal veya menü değişimi aramayı kapatır, arka planda maç başlamaz. Rakip adı geçmişte de korunur.
+
+Yapay zekâya karşı menüsünde Kolay/Orta/Zor seçimi ve teslimde ödül verilmemesi korunur. Kabus yeni kartlarla açılmak üzere kilitlidir.
+
+586 oyun/kayıt ve 20 gerçek oyun arayüzü kontrolü geçti. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -18,7 +22,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.29/Astral-Duello-v0.8.29.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.30/Astral-Duello-v0.8.30.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
