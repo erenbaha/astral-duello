@@ -32,3 +32,10 @@ v0.8.17 uygulamasını kullananlar bu adresi Ayarlar ekranına bir kez kaydedebi
 ## Geçmiş sürümler
 
 v0.1–v0.8.17 dosyaları `v0.8.17` arşiv yayını altında, özgün dosya adlarıyla korunur. Gelecek sürümler kendi etiketleriyle yayımlanır.
+
+## v0.8.22 ve sonraki yayınlar
+
+İkinci herkese açık bildirim: https://raw.githubusercontent.com/erenbaha/astral-duello/main/latest.json . Release tamamen yayımlandıktan sonra deponun kökündeki latest.json dosyasını aynı imzalı içerikle güncelle. Böylece iki bildirim aynı sürümü gösterir; URL alanı sürüme özgü HTML dosyasına gider. Her iki bildirimi ve oyun indirmesini GitHub oturumu/erişim anahtarı olmadan kontrol et. İmza veya dosya bütünlüğü hatasında doğrulamayı atlama. Kök bildirimi, hedef dosyalar yayımlanmadan ileri sürüme taşıma.
+
+Yerel uygulama v0.8.22 Chromium/Windows ağ ayarlarını kullanır, geçici hatalarda bir kez yeniden dener ve ana bildirim erişilemiyorsa yedek bildirime geçer. Hata ayrıntısı ayarlarda ve kullanıcı veri klasöründeki update-status.json içinde bulunur. Açılışta mevcut oyunla devam düğmesi vardır; indirilen yeni oyun, süren düelloyu yeniden yüklemez.
+
