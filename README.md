@@ -2,7 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.31 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.32 / Windows uygulaması · v0.8.28
+
+Yeni üyeler ilk girişte sekiz derslik **Astral Akademisi** öğreticisiyle karşılanır. Normal ve yüksek seviyeli çağırma, Ritüel, Füzyon, Xyz, Senkron, Pendulum ve Link sırasıyla gerçek tahtada öğrenilir. Dersleri tamamlayan hesap yalnız bir kez **1.000 gümüş ve 25 altın** alır. Tamamlanan dersler hesaba kaydedilir; yarım kalan ders temiz bir sahayla yeniden başlar. Alıştırma kartları gerçek desteyi değiştirmez. Mevcut oyuncular **Antrenman → Öğreticiyi aç** yoluyla eğitime girebilir.
 
 Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyuncu adı, kapalı destedeki kart sayısı ve yaşam puanları görünür. Kendi deste adın korunur.
 
@@ -10,7 +12,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-603 oyun/kayıt ve 22 gerçek oyun arayüzü kontrolü geçti. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
+641 oyun/kayıt, 24 gerçek oyun arayüzü ve son dosyada 11 küçük ekran kontrolü geçti. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -22,7 +24,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.31/Astral-Duello-v0.8.31.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.32/Astral-Duello-v0.8.32.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
