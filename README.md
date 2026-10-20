@@ -2,7 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.35 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.36 / Windows uygulaması · v0.8.28
+
+Ana menü görselleri hareket kazandı: seçili karakterin ana kartında yavaş yakınlaşma ve hareket, karakter rengine uygun ışık halkaları ve parçacıklar, karakter değişiminde yumuşak geçiş var. Portreler parlar; karakter panelindeki ana kart hafifçe süzülür. Yazılar ve düğmeler sabit kalır. Diğer ekranlarda ve gizli sekmede animasyonlar duraklar; hareketi azalt tercihine uyulur.
 
 Ana menüdeki ayrı rank rozeti hesap paneline taşındı. **Kullanıcı adı → Derece ve ödüller** alanına tıklamak mevcut derece ekranını açar. RP bilgisi hesap eşitlenince güncellenir; mevcut puanlar ve alınmış ödüller korunur.
 
@@ -18,7 +20,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-678 oyun/kayıt ve 7 hesap/rank arayüz kontrolü geçti. Masaüstü, küçük pencere ve telefon yerleşimleri doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
+678 oyun/kayıt ve 9 gerçek animasyon/arayüz kontrolü geçti. Sekiz karakterin geçişi, duraklama, tıklamalar, hareketi azalt ve küçük ekran görünümleri doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0825 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -30,7 +32,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.35/Astral-Duello-v0.8.35.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.36/Astral-Duello-v0.8.36.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
