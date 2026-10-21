@@ -2,19 +2,17 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.45 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.46 / Windows uygulaması · v0.8.28
 
-**Mavi metin seçimi düzeltildi.** Oyun alanında fareyi sürüklemek, çift tıklamak veya Ctrl+A kullanmak artık yazıları ve ortadaki yıldızı seçmez. Kart hedefleme ve inceleme çalışır; arama, deste adı ve kod alanlarında yazma/seçme/kopyalama korunur. [v0.8.45 sürümü](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.45).
+**166 kart.** Mevcut on destenin her birine bir bağımsız Füzyon eklendi: Tutulma Tacı Leviathanı, Yörünge Kimerası, Alacakaranlık Sfenksi, Obsidyen Lav Ejderi, Gece Halesi Baykuşu, Volfram Kale Akrebi, Rezonans Çark Böceği, Korona Kanatlı Mantikor, Kristal Kanyon Hidrası ve Tayf Zırhlı Kirin. Adları belli iki mevcut malzemeyi **Ruhların Kaynaşması** ile birleştirirler; yeni kartların aile etiketi yoktur.
 
-**Topaz Kaplan pasif +600 ATK kazanır:** kendi Büyü/Tuzak Bölgesinde bir cevher canavarı bulunduğu sürece işler; son cevher ayrılınca bonus biter. Etkinleştirme ve tur sonu süresi yoktur. [v0.8.44 düzeltmesi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.44).
+Dört yeni bağımsız Ana Deste canavarı: **Bulut Kabuklu Nautilus** (Seviye 2, 500/1700, N), **Bazalt Çeneli Pangolin** (4, 1700/1900, R), **Fırtına Telli Akrep** (3, 1400/800, R) ve **Boşluk Gezgini Kertenkele** (4, 1600/1000, RR). Akrep boş canavar alanına elden Özel Çağrılır; Kertenkele elden kendini göndererek mezarlıktan Seviye 4 veya altı bir Normal canavarı ele alır. Bu dört karttan en az birer kopya koleksiyonda bulunur; tekrar yükleme kart veya para vermez. Hiçbir hazır aile destesine otomatik atanmazlar.
 
-**152 kart.** Beş mevcut Pendulum, **Eşik Gezginleri** ailesi altında yeniden adlandırıldı. Eski etkileri, çizimleri ve sahip olunan kopyaları korunur. İki yeni Pendulum canavarı, **Eşik Çağrısı** ve **Eşik Perdesi** aileyi destekler.
+14 özgün insan dışı çizim eklendi; önceki 152 kartın özellikleri ve çizimleri korundu. Hazır desteler **40 Ana / en fazla 15 Ek** sınırında kalır ve yeni Füzyon için gerekli genel büyüyü içerir. Satın alınmış desteler yeni Füzyonlarını minimum sahiplik hakkıyla alır; kilitli desteler ücretsiz açılmaz. Yalnız dokunulmamış hazır şablonlar yükseltilir, kişisel düzenlemeler ve devam maçları korunur. Fiyatlar değişmedi.
 
-Crystal Beast esintili **Cevher Muhafızları** destesinde yedi insan olmayan cevher yaratığı, **Yedi Tayf Ejderi** ve dört destek kartı bulunur. Canavar alanında yok edilen cevherler boş büyü/tuzak yuvasına Sürekli Büyü olarak yerleşir. Bedel, kurban ve malzeme olarak mezarlığa gönderme bu dönüşümü tetiklemez. Destekler cevherleri yeniden canavar olarak çağırır; yedi farklı cevher adı 4000 ATK gücündeki ejderin özel çağrılmasını sağlar.
+Akademide on yeni Füzyon tarifi ve bağımsız canavar alıştırması bulunur. Yeni Füzyonları botlar yalnız Zor modda kullanır, Kabus kilitlidir. Mavi metin seçimi düzeltmesi ve Topaz Kaplan'ın pasif etkisi sürer. [v0.8.46 sürüm notları ve malzemeler](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.46).
 
-**16 yeni kart**, özgün görseller ve iki yeni 40 kartlık hazır deste: Eşik Gezginleri **800 altın**, Cevher Muhafızları **900 altın**. Kilitli destelerin içeriği görülebilir ve Akademide denenebilir. Kolay/orta/zor bot desteleri de hazırlanmıştır. Sekiz mevcut karakter, dört kişisel deste yuvası ve önceki kayıtlar korunur. Yeni aile desteleri koleksiyona ücretsiz eklenmez. [v0.8.43 sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.43).
-
-Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.10 bu kayıtları destekler.
+Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.11 bu kayıtları destekler.
 
 Ana menü görselleri hareket kazandı: seçili karakterin ana kartında yavaş yakınlaşma ve hareket, karakter rengine uygun ışık halkaları ve parçacıklar, karakter değişiminde yumuşak geçiş var. Portreler parlar; karakter panelindeki ana kart hafifçe süzülür. Yazılar ve düğmeler sabit kalır. Diğer ekranlarda ve gizli sekmede animasyonlar duraklar; hareketi azalt tercihine uyulur.
 
@@ -32,7 +30,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-924 oyun/kayıt, 10 fare/klavye arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0844 ile uyumludur.
+966 oyun/kayıt, 20 gerçek arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0846 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -44,7 +42,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.45/Astral-Duello-v0.8.45.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.46/Astral-Duello-v0.8.46.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
