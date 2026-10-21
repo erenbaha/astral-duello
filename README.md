@@ -2,15 +2,15 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.41 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.42 / Windows uygulaması · v0.8.28
 
-**131 kart.** Kullanıcının düzeltmesiyle son beş Link baştan, mevcut ailelerden bağımsız tasarlandı. Yeni adlar, insan dışı özgün çizimler, ATK/ırklar ve etkiler: **Boşluk Feneri** (Link-1/600), **Obsidyen Makasçene** (Link-2/1800), **Gelgit Aynası Leviathanı** (Link-2/1900), **Kum Saati Basiliski** (Link-3/2500), **Eşik Yırtan Hiçlik Ejderi** (Link-4/3200). Genel malzeme koşulları kullanırlar; aile etiketi, aileye özel etki ve otomatik aile bağlantıları yoktur.
+**136 kart.** Beş yeni Pendulum mevcut ailelerden bağımsızdır: **Pus Yüzgeçli Aksolotl** (Seviye 2 / Ölçek 1), **Kor Kuyruklu Geko** (3 / 8), **Fırtına Camı Vatozu** (4 / 2), **Jeot Kabuklu Kaplumbağa** (4 / 7), **Yıldız Yutan Kimeron** (7 / 9). Her kartın ayrı insan dışı çizimi, canavar ve Pendulum etkisi vardır.
 
-Bu kartlar hazır aile destelerine atanmaz. Koleksiyonda en az birer kopya vardır; kendi destene ekleyebilirsin. Daha önce sahip olunan kopyalar ve kişisel desteler korunur. Yalnız değiştirilmemiş v0.8.40 hazır deste yuvaları önceki Ek Deste içeriğine döner. Sol ve sağ dahil bütün Link yönleri gösterilir. Çift saldırı hakkı tur sonunda veya sahadan ayrılınca biter. [v0.8.41 sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.41).
+Boş sahaya çağırma, Ek Desteden ve mezarlıktan geri kazanma, geçici ATK, kart yenileme ve rakip Büyü/Tuzağını geri gönderme seçenekleri sunarlar. Ölçek ve canavar aktif etkileri fiziksel kart kopyası başına her tur toplam bir kullanım paylaşır; bölge değiştirmek sınırı yenilemez. Ek Deste alanları, Link okları ve çağırma tepkileri korunur.
 
-Önceki 126 kartın özellikleri ve altı son kart düzeltmesi korunur: Nabız Akortçusu sahadaki herhangi bir kartla özel çağrılır; Diyapazon Senkron Böceği mezarlıktan Seviye 4 veya altı çağırır; Köz Külleri Yavrusu kendini gönderip +600 ATK verir; Gölge İzci normal modlarda doğrudan saldırabilir; Işık Habercisi el/desteden aile canavarı çağırır; Tutulma Güvesi mezarlıktan desteye karıştırır.
+Yeni kartlardan koleksiyonda en az birer kopya vardır; özel destene ekleyebilirsin. Hazır aile destelerine otomatik eklenmezler. Önceki 131 kart, hazır ve kişisel desteler, sahip olunan kopyalar ve oyuncu kayıtları korunur. Akademide yeni **Bağımsız Pendulumlar** antrenmanı bulunur. [v0.8.42 sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.42).
 
-Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.7 bu kayıtları destekler.
+Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.8 bu kayıtları destekler.
 
 Ana menü görselleri hareket kazandı: seçili karakterin ana kartında yavaş yakınlaşma ve hareket, karakter rengine uygun ışık halkaları ve parçacıklar, karakter değişiminde yumuşak geçiş var. Portreler parlar; karakter panelindeki ana kart hafifçe süzülür. Yazılar ve düğmeler sabit kalır. Diğer ekranlarda ve gizli sekmede animasyonlar duraklar; hareketi azalt tercihine uyulur.
 
@@ -28,7 +28,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-835 oyun/kayıt, 10 gerçek arayüz ve 34 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0841 ile uyumludur.
+869 oyun/kayıt, 15 gerçek arayüz ve 35 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0842 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -40,7 +40,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.41/Astral-Duello-v0.8.41.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.42/Astral-Duello-v0.8.42.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
