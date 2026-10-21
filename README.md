@@ -2,7 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.44 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.45 / Windows uygulaması · v0.8.28
+
+**Mavi metin seçimi düzeltildi.** Oyun alanında fareyi sürüklemek, çift tıklamak veya Ctrl+A kullanmak artık yazıları ve ortadaki yıldızı seçmez. Kart hedefleme ve inceleme çalışır; arama, deste adı ve kod alanlarında yazma/seçme/kopyalama korunur. [v0.8.45 sürümü](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.45).
 
 **Topaz Kaplan pasif +600 ATK kazanır:** kendi Büyü/Tuzak Bölgesinde bir cevher canavarı bulunduğu sürece işler; son cevher ayrılınca bonus biter. Etkinleştirme ve tur sonu süresi yoktur. [v0.8.44 düzeltmesi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.44).
 
@@ -30,7 +32,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-924 oyun/kayıt, 22 gerçek arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0844 ile uyumludur.
+924 oyun/kayıt, 10 fare/klavye arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0844 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -42,7 +44,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.44/Astral-Duello-v0.8.44.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.45/Astral-Duello-v0.8.45.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
