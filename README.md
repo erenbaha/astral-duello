@@ -2,17 +2,15 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.46 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.47 / Windows uygulaması · v0.8.28
 
-**166 kart.** Mevcut on destenin her birine bir bağımsız Füzyon eklendi: Tutulma Tacı Leviathanı, Yörünge Kimerası, Alacakaranlık Sfenksi, Obsidyen Lav Ejderi, Gece Halesi Baykuşu, Volfram Kale Akrebi, Rezonans Çark Böceği, Korona Kanatlı Mantikor, Kristal Kanyon Hidrası ve Tayf Zırhlı Kirin. Adları belli iki mevcut malzemeyi **Ruhların Kaynaşması** ile birleştirirler; yeni kartların aile etiketi yoktur.
+**166 kart.** Altı Füzyonun ATK/DEF değerleri güncellendi: Obsidyen Lav Ejderi **1800/1500**, Gece Halesi Baykuşu **1500/2000**, Volfram Kale Akrebi **1300/1800**, Rezonans Çark Böceği **1000/1700**, Korona Kanatlı Mantikor **1500/1800**, Kristal Kanyon Hidrası **2200/2800**. Etkileri ve malzemeleri korunur.
 
-Dört yeni bağımsız Ana Deste canavarı: **Bulut Kabuklu Nautilus** (Seviye 2, 500/1700, N), **Bazalt Çeneli Pangolin** (4, 1700/1900, R), **Fırtına Telli Akrep** (3, 1400/800, R) ve **Boşluk Gezgini Kertenkele** (4, 1600/1000, RR). Akrep boş canavar alanına elden Özel Çağrılır; Kertenkele elden kendini göndererek mezarlıktan Seviye 4 veya altı bir Normal canavarı ele alır. Bu dört karttan en az birer kopya koleksiyonda bulunur; tekrar yükleme kart veya para vermez. Hiçbir hazır aile destesine otomatik atanmazlar.
+Tayf Zırhlı Kirin aynı sahiplik kimliğiyle **Yedi Tayf Güneş Süvarisi** oldu. Malzemeleri **Cevher Muhafızları — Yedi Tayf Ejderi + Ufuk Birliği — Güneş Muhafızı**; çizimi ejdere binen insan dışı bir ejder süvarisidir. Aile etiketi yoktur. 2700/2200 ve cevher başına pasif +200 ATK etkisi sürer. **Ruhların Kaynaşması** ile Füzyon Çağrılır.
 
-14 özgün insan dışı çizim eklendi; önceki 152 kartın özellikleri ve çizimleri korundu. Hazır desteler **40 Ana / en fazla 15 Ek** sınırında kalır ve yeni Füzyon için gerekli genel büyüyü içerir. Satın alınmış desteler yeni Füzyonlarını minimum sahiplik hakkıyla alır; kilitli desteler ücretsiz açılmaz. Yalnız dokunulmamış hazır şablonlar yükseltilir, kişisel düzenlemeler ve devam maçları korunur. Fiyatlar değişmedi.
+Cevher hazır destesindeki bir Cevher Bahçesi yerine bir Güneş Muhafızı yerleştirildi. Hazır desteler **40 Ana / en çok 15 Ek** karttır; yalnız dokunulmamış eski şablonlar yükseltilir, kişisel düzenlemeler korunur. Yeni tarif Akademide denenebilir. Kart havuzu ve koleksiyon kopyaları sıfırlanmaz. [v0.8.47 değişiklikleri](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.47).
 
-Akademide on yeni Füzyon tarifi ve bağımsız canavar alıştırması bulunur. Yeni Füzyonları botlar yalnız Zor modda kullanır, Kabus kilitlidir. Mavi metin seçimi düzeltmesi ve Topaz Kaplan'ın pasif etkisi sürer. [v0.8.46 sürüm notları ve malzemeler](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.46).
-
-Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.11 bu kayıtları destekler.
+Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.12 bu kayıtları destekler.
 
 Ana menü görselleri hareket kazandı: seçili karakterin ana kartında yavaş yakınlaşma ve hareket, karakter rengine uygun ışık halkaları ve parçacıklar, karakter değişiminde yumuşak geçiş var. Portreler parlar; karakter panelindeki ana kart hafifçe süzülür. Yazılar ve düğmeler sabit kalır. Diğer ekranlarda ve gizli sekmede animasyonlar duraklar; hareketi azalt tercihine uyulur.
 
@@ -30,7 +28,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-966 oyun/kayıt, 20 gerçek arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0846 ile uyumludur.
+970 oyun/kayıt, 20 gerçek arayüz ve 36 yönetim kontrolü geçti. Yeni kart kuralları, önceki sürümlerden kayıt uyumu, ayrı dereceler ve teslim olma ödül kuralları doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0847 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -42,7 +40,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.46/Astral-Duello-v0.8.46.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.47/Astral-Duello-v0.8.47.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
