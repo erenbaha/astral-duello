@@ -2,9 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.49 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.50 / Windows uygulaması · v0.8.28
 
-**Öğretici giriş katmanı düzeltmesi:** v0.8.48 ekranındaki Selin/ilk ders kilidi yeniden oluşturuldu ve giderildi. **Alıştırmaya başla** onayından önce ortadaki **Kart çek** katmanı artık açılmaz. Onaydan sonra gerçek çekme adımı başlar; çekilen kart eline gelir ve Normal Çağırma adımı açılır. Yeniden başlatma, ara verme ve diğer pencerelere geçiş eski katmanı ekranda bırakmaz. Kayıt ve tek seferlik öğretici ödülü korunur.
+**Otomatik ders geçişi:** Alıştırmaya başla düğmesi kaldırıldı. Ders açılır açılmaz hamle yapılabilir. **Dersi tamamla** ilerlemeyi kaydeder ve sonraki dersi otomatik açar. Kayıt hatasında aynı derste yeniden deneme sunulur. Ders tekrarları ve kalınan yerden devam da doğrudan uygulama adımında açılır; tek seferlik öğretici ödülü korunur.
 
 **166 kart.** Altı Füzyonun ATK/DEF değerleri güncellendi: Obsidyen Lav Ejderi **1800/1500**, Gece Halesi Baykuşu **1500/2000**, Volfram Kale Akrebi **1300/1800**, Rezonans Çark Böceği **1000/1700**, Korona Kanatlı Mantikor **1500/1800**, Kristal Kanyon Hidrası **2200/2800**. Etkileri ve malzemeleri korunur.
 
@@ -30,7 +30,7 @@ Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyu
 
 Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
 
-970 oyun/kayıt, 13 gerçek tıklamalı giriş/çekme, 24 tam öğretici akışı ve 9 yönetim öğretici uyumluluk kontrolü geçti. Kart çekme, sekiz çağırma dersi, yeniden başlatma/kalınan yerden devam ve tek seferlik ödül doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0847 ile uyumludur.
+970 oyun/kayıt, 10 gerçek fareyle ders/çekme, 30 tam öğretici akışı ve 9 yönetim öğretici uyumluluk kontrolü geçti. Otomatik sonraki ders, kayıt hatası ve yeniden deneme, sekiz çağırma dersi, yeniden başlatma/kalınan yerden devam ve tek seferlik ödül doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0847 ile uyumludur.
 
 **Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
 
@@ -42,7 +42,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.49/Astral-Duello-v0.8.49.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.50/Astral-Duello-v0.8.50.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
