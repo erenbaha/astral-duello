@@ -2,7 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.52 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.53 / Windows uygulaması · v0.8.28
+
+**İçerikten satın alma:** Paket ve hazır deste listelerinde **İçeriği görüntüle** ile kartları incele. Paket içeriğinde **x1/x5/x10**, deste içeriğinde **Satın al** bulunur. Satın alınan destede **Destemde düzenle** açılır. Kayıt hatasında aynı içerikte kayıpsız yeniden deneme yapılabilir; geri dönüş kategori, kaydırma ve odağı korur. Masaüstü/telefon görünümünde **16 arayüz kontrolü** geçti.
 
 **20 yeni paket ve dükkan güncellemesi:** Her paket havuzunda 40 farklı kart: tam **3 SR, 5 UR ve 32 N/R/RR**. Her açılış **3 kart / 250 gümüş**; **x1, x5 ve x10** açılabilir. Havuzlar malzeme ve destek bağlantılarına göre düzenlendi; mevcut kart nadirlikleri değişmedi. Kart ve para değişimleri tek ekonomi kaydıyla uygulanır, başarısız kayıtta harcama veya kart değişimi olmaz.
 
@@ -50,7 +52,7 @@ Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu 
 
 - [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.52/Astral-Duello-v0.8.52.html)
+- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.53/Astral-Duello-v0.8.53.html)
 - [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
 - [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
 
