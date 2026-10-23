@@ -2,7 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.56 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.57 / Windows uygulaması · v0.8.28
+
+**Tuzak onayı ve kart seçimi:** Tuzak tıklanınca görseli ve etkisi incelenir; hedef/bedel seçiminden sonra tek **Etkinleştir** onayıyla oynanır. Hedef istemeyen tuzaklar da onay bekler. Fareyle seçilmiş kartta boşluk tuşunun ek çerçeve oluşturması düzeltildi; Tab/Enter/Space ile klavye seçimi ve metin düzenleme korunur.
 
 **Sonlu paket kutuları:** Başlangıç oranları **N %40 / R %30 / RR %20 / SR %7,5 / UR %2,5**. Her farklı karttan kutuda **N 7 / R 5 / RR 3 / SR 1 / UR 1** kopya bulunur. Kart çıktıkça stok azalır; tükenen nadirliğin payı kalanlara orantılı dağıtılır ve güncel oranlar gösterilir. Her paket türünde kalan kart/paket limiti ayrı izlenir. Kutu bitince ücretsiz yenilenir; son pakette eksikler yeni kutudan tamamlanır. **Kutuyu sıfırla · 20 altın** erken yeniler ve koleksiyon kartlarını silmez.
 
@@ -18,17 +20,17 @@ Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya od
 
 **Sahiplik geçişi:** Yeni 230 kart paket veya deste edinilmeden ücretsiz verilmez. Önceki v0.8.51 genişlemesinin 100 kartı tüm hesapların sahipliğinden bir defa kaldırılır; katalogdan silinmez, yeniden edinilebilir. Bakiyeler, diğer kartlar ve kişisel deste tanımları korunur; eksik kartlı desteler eksik görünür. Eski cihaz eşitlemesi veya eski hazır deste kayıtları bunları kendiliğinden geri vermez. Güncel sunucuya kayıt göndermek için **v0.8.56** gerekir.
 
-**Doğrulama:** Sonlu stok, ağırlıklı seçim, tam kutu tüketimi, atomik ekonomi, hesap/Admin uyumluluğu ve masaüstü/telefon kontrolleri geçti. Gerçek x1/x5/x10 animasyonları ve kartların tek tek açılışı baştan sona denendi; önceki numaralı yayınlar korundu.
+**Doğrulama:** Tuzak onayı, vazgeçme, hedefli/hedefsiz tuzaklar, gerçek fare/klavye ve mobil görünüm için 23 kontrol geçti. Önceki sürümde doğrulanan sonlu stok, ağırlıklı seçim, tam kutu tüketimi, atomik ekonomi, hesap/Admin uyumluluğu ve masaüstü/telefon kontrolleri geçti. Gerçek x1/x5/x10 animasyonları ve kartların tek tek açılışı baştan sona denendi; önceki numaralı yayınlar korundu.
 
 ## İndir ve başlat
 
 - [Windows kurulum ZIP dosyası · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz Windows uygulaması · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu · v0.8.56](https://github.com/erenbaha/astral-duello/releases/download/v0.8.56/Astral-Duello-v0.8.56.html)
-- [v0.8.56 dosyaları ve sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.56)
+- [Tek dosyalık HTML oyunu · v0.8.57](https://github.com/erenbaha/astral-duello/releases/download/v0.8.57/Astral-Duello-v0.8.57.html)
+- [v0.8.57 dosyaları ve sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.57)
 - [Tüm sürümler](https://github.com/erenbaha/astral-duello/releases)
 
-Windows 10/11 64 bit içindir. Kurulum ZIP'ini çıkarıp içindeki kurulum EXE dosyasını çalıştır. Kurulumsuz ZIP'i tamamen çıkarıp Astral-Duello/Astral-Duello.exe dosyasını aç. Mevcut v0.8.28 uygulaması imzalı içerik güncellemesiyle oyun v0.8.56'i alır; yeniden kurulum gerekmez. Eski EXE'de Geri/Oyunu başlat sorunu varsa v0.8.28 kurulumunu bir kez yükle. EXE ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin Ed25519 imzası ayrıdır.
+Windows 10/11 64 bit içindir. Kurulum ZIP'ini çıkarıp içindeki kurulum EXE dosyasını çalıştır. Kurulumsuz ZIP'i tamamen çıkarıp Astral-Duello/Astral-Duello.exe dosyasını aç. Mevcut v0.8.28 uygulaması imzalı içerik güncellemesiyle oyun v0.8.57'yi alır; yeniden kurulum gerekmez. Eski EXE'de Geri/Oyunu başlat sorunu varsa v0.8.28 kurulumunu bir kez yükle. EXE ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin Ed25519 imzası ayrıdır.
 
 ## Hesaplar ve oyun
 
