@@ -2,86 +2,50 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.54 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.55 / Windows uygulaması · v0.8.28
 
-**Paket görünüşü ve açılışı:** 20 paketin her biri farklı folyo kapak, renk, desen ve amblemle görünür. Satın alma tamamlanınca parlama, folyo açılması ve kart çevirme animasyonu oynar. **Geç** veya Escape kazanılan kartları hemen gösterir; aynı kaydedilmiş sonuç kullanılır. **x1/x5/x10** için tüm **3/15/30 kart** sonuç ekranına gelir. Azaltılmış hareket tercihine uyulur. Sunum, masaüstü/mobil arayüz ve öğretici için **65 işlev kontrolü** geçti.
+**496 kart, 14 aile, 17 hazır deste ve 35 paket.** Resmî Yu-Gi-Oh veritabanından seçilen, önceki kartlardan farklı 200 referansın Türkçe Astral uyarlaması ve bunların dışında 30 **Toon Masalları** kartı eklendi. Normal/Etki, Tuner, Füzyon, Senkron, Xyz, Link, Pendulum, Ritüel, Büyü ve Tuzak türleri bulunur. Tanrı ve Exodia kartları yoktur. Yeni 230 kartın her biri özgün insan dışı çizim ve gerçek motor etkileri içerir.
 
-**İçerikten satın alma:** Paket ve hazır deste listelerinde **İçeriği görüntüle** ile kartları incele. Paket içeriğinde **x1/x5/x10**, deste içeriğinde **Satın al** bulunur. Satın alınan destede **Destemde düzenle** açılır. Kayıt hatasında aynı içerikte kayıpsız yeniden deneme yapılabilir; geri dönüş kategori, kaydırma ve odağı korur. Masaüstü/telefon görünümünde **16 arayüz kontrolü** geçti.
+**Yeni desteler:** Kadim Dişliler, Gece Kanatları, Doğa Yoldaşları, Kara Kovan ve Toon Masalları dükkândan alınabilir. Hazır desteler 40 Ana / en çok 15 Ek karttır. Mevcut kişisel deste tanımları korunur.
 
-**20 yeni paket ve dükkan güncellemesi:** Her paket havuzunda 40 farklı kart: tam **3 SR, 5 UR ve 32 N/R/RR**. Her açılış **3 kart / 250 gümüş**; **x1, x5 ve x10** açılabilir. Havuzlar malzeme ve destek bağlantılarına göre düzenlendi; mevcut kart nadirlikleri değişmedi. Kart ve para değişimleri tek ekonomi kaydıyla uygulanır, başarısız kayıtta harcama veya kart değişimi olmaz.
+**Toon Masalları:** Sekiz mevcut canavarın Toon sürümü, sekiz özgün canavar, dört Füzyon, altı Büyü ve dört Tuzak. Toonlar çağrıldıkları tur saldıramaz. Masal Kitabı veya Masal Kalesiyle rakipte Toon yokken doğrudan saldırabilir; 2.000 Can modunun yasağı korunur.
 
-**12 hazır deste:** Akü Birliği **750 altın**, Buhar Sürüngenleri **800 altın** karşılığında dükkana eklendi. Önceki 10 destenin içerikleri korunur; 12 destenin ve 20 paket havuzunun çağırma bağlantıları gerçek motorla denetlendi. Kütüphanede nadirlik, ad, ATK, DEF, seviye, tür ve sahip olunan kopya sıralamaları bulunur.
+**Paketler:** 15 yeni havuzla toplam 35 farklı paket. Her havuzda 40 farklı kart: **3 SR, 5 UR ve 32 N/R/RR**. Her açılış **3 kart / 250 gümüş**; **x1/x5/x10** ile 3/15/30 kart. Listede **İçeriği görüntüle**, satın alma içerik ekranındadır. Her paketin farklı kapağı vardır; açılış animasyonu **Geç** veya Escape ile atlanabilir. Kart ve para değişimi tek ekonomi kaydıyla uygulanır; başarısız kayıtta kayıp olmaz.
 
-**Opal Zırhlı Muhafız:** Bir Xyz malzemesi ayırarak rakibin Link olmayan canavarını kapalı Savunma Konumuna geçirir. Otuz Dokuzuncu Işık Muhafızı'nın saldırı engelleme etkisi korunur.
+**Sahiplik geçişi:** Yeni 230 kart paket veya deste edinilmeden ücretsiz verilmez. Önceki v0.8.51 genişlemesinin 100 kartı tüm hesapların sahipliğinden bir defa kaldırılır; katalogdan silinmez, yeniden edinilebilir. Bakiyeler, diğer kartlar ve kişisel deste tanımları korunur; eksik kartlı desteler eksik görünür. Eski cihaz eşitlemesi veya eski hazır deste kayıtları bunları kendiliğinden geri vermez. Güncel sunucuya kayıt göndermek için **v0.8.55** gerekir.
 
-**100 yeni kart:** Normal/Etki, Tuner, Füzyon, Senkron, Xyz, Link, Pendulum, Ritüel, Büyü ve Tuzak türlerinde 100 kart ve 100 özgün insan dışı görsel eklendi. Akü Birliği ve Buhar Sürüngenleri serileri 20 kart, bağımsız kartlar 80 karttır. Tanrı/Exodia hariç. Etkiler Astral kurallarına uyarlanmıştır. Yeni kartlar koleksiyona bir kez eklenir; mevcut kayıtlar, bakiyeler ve kişisel desteler korunur.
+**Doğrulama:** 21 kontrol grubu ve 35 eski regresyon dosyası geçti. Motor etkileri, çağırma tarifleri, ekonomi/sahiplik, masaüstü/telefon arayüzü, sekiz öğretici dersi ve imzalı Windows güncellemesi doğrulandı.
 
-**Otomatik ders geçişi:** Alıştırmaya başla düğmesi kaldırıldı. Ders açılır açılmaz hamle yapılabilir. **Dersi tamamla** ilerlemeyi kaydeder ve sonraki dersi otomatik açar. Kayıt hatasında aynı derste yeniden deneme sunulur. Ders tekrarları ve kalınan yerden devam da doğrudan uygulama adımında açılır; tek seferlik öğretici ödülü korunur.
+## İndir ve başlat
 
-**266 kart.** Altı Füzyonun ATK/DEF değerleri güncellendi: Obsidyen Lav Ejderi **1800/1500**, Gece Halesi Baykuşu **1500/2000**, Volfram Kale Akrebi **1300/1800**, Rezonans Çark Böceği **1000/1700**, Korona Kanatlı Mantikor **1500/1800**, Kristal Kanyon Hidrası **2200/2800**. Etkileri ve malzemeleri korunur.
+- [Windows kurulum ZIP dosyası · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
+- [Kurulumsuz Windows uygulaması · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
+- [Tek dosyalık HTML oyunu · v0.8.55](https://github.com/erenbaha/astral-duello/releases/download/v0.8.55/Astral-Duello-v0.8.55.html)
+- [v0.8.55 dosyaları ve sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.55)
+- [Tüm sürümler](https://github.com/erenbaha/astral-duello/releases)
 
-Tayf Zırhlı Kirin aynı sahiplik kimliğiyle **Yedi Tayf Güneş Süvarisi** oldu. Malzemeleri **Cevher Muhafızları — Yedi Tayf Ejderi + Ufuk Birliği — Güneş Muhafızı**; çizimi ejdere binen insan dışı bir ejder süvarisidir. Aile etiketi yoktur. 2700/2200 ve cevher başına pasif +200 ATK etkisi sürer. **Ruhların Kaynaşması** ile Füzyon Çağrılır.
+Windows 10/11 64 bit içindir. Kurulum ZIP'ini çıkarıp içindeki kurulum EXE dosyasını çalıştır. Kurulumsuz ZIP'i tamamen çıkarıp Astral-Duello/Astral-Duello.exe dosyasını aç. Mevcut v0.8.28 uygulaması imzalı içerik güncellemesiyle oyun v0.8.55'i alır; yeniden kurulum gerekmez. Eski EXE'de Geri/Oyunu başlat sorunu varsa v0.8.28 kurulumunu bir kez yükle. EXE ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin Ed25519 imzası ayrıdır.
 
-Cevher hazır destesindeki bir Cevher Bahçesi yerine bir Güneş Muhafızı yerleştirildi. Hazır desteler **40 Ana / en çok 15 Ek** karttır; yalnız dokunulmamış eski şablonlar yükseltilir, kişisel düzenlemeler korunur. Yeni tarif Akademide denenebilir. Kart havuzu ve koleksiyon kopyaları sıfırlanmaz. [v0.8.47 değişiklikleri](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.47).
+## Hesaplar ve oyun
 
-Düellodan önce **Klasik (8.000 can), 2.000 Can veya 4.000 Can** seçilebilir. **2.000 Can** modunda doğrudan saldırı yapılamaz ve Normal Çağırma/kapalı yerleştirme için kurban gerekmez; özel çağırma malzemeleri ve kart bedelleri korunur. **4.000 Can** mevcut kurallarla oynanır. Üç modun **RP, maç istatistiği ve para ödülü yolu tamamen ayrıdır**. Yeni modlar 0 RP'den başlar; eski Klasik derece korunur. Mod seçimi hem yapay zekâ hem çevrimiçi maçlar için geçerlidir. Oda/rastgele eşleşmeler aynı moda aittir; kayda devam aynı kuralları sürdürür. Hesap panelinde her modun derece düğmesi bulunur. Hesap sunucusu ve özel Yönetim 1.0.14 bu kayıtları destekler.
+Kullanıcı adı/şifreyle üyelik ve giriş vardır. Koleksiyon, bakiyeler, dereceler, karakter seviyeleri, 32 deste yuvası, tek oyunculu düelloya devam ve maç geçmişi kişisel hesaba kaydedilir. Eski kaydın olduğu cihazda Üye ol ekranındaki aktarım seçeneği kullanılabilir. Kurtarma anahtarını sakla; parola kurtarmada gereklidir. Misafir olarak tek oyunculu oynanabilir.
 
-Ana menü görselleri hareket kazandı: seçili karakterin ana kartında yavaş yakınlaşma ve hareket, karakter rengine uygun ışık halkaları ve parçacıklar, karakter değişiminde yumuşak geçiş var. Portreler parlar; karakter panelindeki ana kart hafifçe süzülür. Yazılar ve düğmeler sabit kalır. Diğer ekranlarda ve gizli sekmede animasyonlar duraklar; hareketi azalt tercihine uyulur.
+[Hesap servisi](https://astral-duello-hesap.fuzzyloon33.chatgpt.site) aynı adreste kalıcı veritabanıyla çalışır. Koleksiyonda en çok 5/destede 3 kopya; tekil kartta 1 sınırı korunur.
 
-Ana menüdeki ayrı rank rozeti hesap paneline taşındı. **Kullanıcı adı → Derece ve ödüller** alanına tıklamak mevcut derece ekranını açar. RP bilgisi hesap eşitlenince güncellenir; mevcut puanlar ve alınmış ödüller korunur.
+**Klasik (8.000 can), 2.000 Can ve 4.000 Can** modlarının dereceleri ve ödülleri ayrıdır. 2.000 Can modunda doğrudan saldırı yoktur; Normal Çağırma için kurban gerekmez, özel çağırma malzemeleri ve kart bedelleri geçerlidir. 21 derece kademesi ve 41 para ödülü vardır. Teslim olunca para/XP/kart verilmez; dereceli maçta -10 RP (en az 0) ve yenilgi kaydı uygulanır.
 
-Altı özgün enstrümantal müzik eklendi: **üç ana menü, üç savaş parçası**. Parçalar bitince farklı parça çalar; düelloya girerken müzik yumuşakça değişir. Saldırının fırlatılması ve darbeye ulaşması, büyü/tuzak kullanımı, engelleme, yansıma ve kart çekme kendi animasyon anlarında farklı sesler çıkarır. **♪ / ♪ Ses** panelinden müzik ve efektler ayrı ayarlanır; sonraki parçaya geçilebilir. Tercihler cihazda saklanır. Müzik ilk tıklama/tuştan sonra başlar ve oyun dosyasındadır; ek indirme gerekmez.
+**Astral Akademisi** sekiz çağırma dersini gerçek tahtada öğretir. Ders açılınca hamle yapılabilir; Dersi tamamla kaydeder ve sonraki derse geçer. Hesap başına bir kez 1.000 gümüş/25 altın ödülü verilir. Antrenman → Öğreticiyi aç yoluyla tekrar oynanabilir.
 
-Derece sistemi **21 kademe** içerir. Çaylak, Bronz, Gümüş, Altın, Platin, Elmas ve Astral III → II → I sırasında ilerler; **her kademe 100 RP**'dir. **41 para ödülü** 50–2050 RP arasında her 50 RP'de açılır; 100 RP'deki terfi ödülleri daha yüksektir. Mevcut puanlar ve alınmış ödüller korunur. Önceki puanla açılan yeni ödüller sonraki gerçek dereceli galibiyette verilir; aynı eşik yeniden ödeme yapmaz.
+Altı özgün enstrümantal parça ve animasyonlara bağlı efektler bulunur. ♪ Ses panelinden müzik/efekt ayrı ayarlanır. Hareketi azalt tercihine uyulur. Kütüphanede nadirlik, ad, ATK/DEF, seviye, tür ve kopya sıralamaları vardır.
 
-Yeni üyeler ilk girişte sekiz derslik **Astral Akademisi** öğreticisiyle karşılanır. Normal ve yüksek seviyeli çağırma, Ritüel, Füzyon, Xyz, Senkron, Pendulum ve Link sırasıyla gerçek tahtada öğrenilir. Dersleri tamamlayan hesap yalnız bir kez **1.000 gümüş ve 25 altın** alır. Tamamlanan dersler hesaba kaydedilir; yarım kalan ders temiz bir sahayla yeniden başlar. Alıştırma kartları gerçek desteyi değiştirmez. Mevcut oyuncular **Antrenman → Öğreticiyi aç** yoluyla eğitime girebilir.
+Çevrimiçi eşleşme iki oyuncuda uyumlu oyun sürümü gerektirir: **astral-0855**. Bazı ağlarda ek TURN hizmeti gerekebilir.
 
-Rakibin deste adı maç ekranında ve geçmiş özetinde gösterilmez. Rakip oyuncu adı, kapalı destedeki kart sayısı ve yaşam puanları görünür. Kendi deste adın korunur.
+## Otomatik güncellemeler ve kaynak
 
-**Teslim olunca para, XP veya kart ödülü verilmez.** Dereceli maçta yalnız **−10 RP** (en az 0) ve yenilgi kaydı uygulanır; aynı sonuç ikinci kez ceza oluşturmaz. Bu kural oda ve rastgele dereceli maçlarını da kapsar. Normal galibiyet/yenilgi ödülleri ve rakip teslim olduğunda kazananın ödülü sürer. Önceki bakiye ve kartlar geri alınmaz.
+Windows uygulaması herkese açık imzalı bildirimi kontrol eder:
 
-Rastgele eşleşmede önce çevrimiçi oyuncu aranır. 20 saniye içinde eşleşme olmazsa veya arama bağlantısı kurulamazsa seçili karakterin seviyesine uygun rakip atanır: **1–4 Kolay, 5–9 Orta, 10+ Zor**. Rakip normal bir takma adla görünür; oyuncunun destesi korunur. Kabus kilitli kalır.
-
-1.162 motor/ekonomi/kayıt, 11 paket/dükkan/sıralama arayüzü, 30 tam öğretici akışı, 36 yönetim, 7 katalog ve 18 sunucu kontrolü geçti. Otomatik sonraki ders, kayıt hatası ve yeniden deneme, sekiz çağırma dersi, yeniden başlatma/kalınan yerden devam ve tek seferlik ödül doğrulandı. **v0.8.28 Windows uygulaması bu imzalı oyun güncellemesini açılışta otomatik alır; yeniden kurulum gerekmez.** Çevrimiçi protokol astral-0852 ile uyumludur.
-
-**Kullanıcı adı/şifre ile giriş ve üyelik eklendi.** Koleksiyon, altın/gümüş, derece, karakter seviyeleri, 32 deste yuvası, devam eden tek oyunculu düello ve maç geçmişi kişisel çevrimiçi hesaba kaydedilir.
-
-Eski kaydın bulunduğu cihazda **Üye ol** ekranını açıp aktarım kutusunu seçili bırak. Her oyuncu kendi cihazında bu işlemi uygular. Başka bilgisayarda aynı hesaba giriş yapınca kayıt açılır. Üyelikte gösterilen kurtarma anahtarını sakla; şifreni unuttuğunda gereklidir. Çevrimiçi düello için giriş yapmak gerekir; misafir olarak tek oyunculu oynanabilir.
-
-[Hesap servisi](https://astral-duello-hesap.fuzzyloon33.chatgpt.site) kalıcı veritabanında her oyuncunun kaydını ayrı tutar. İki cihazın ilerlemesi farklıysa kullanılacak kayıt seçilir. Derece para ödülleri, karakter seviyeleri ve koleksiyonda 5/destede 3 kopya sınırı korunur. Tekil kart sınırı 1; fazla T kopyası 30 altın verir.
-
-**Geri tuşu ve Oyunu başlat düzeltmesini almak için v0.8.28 kurulumunu bir kez yükle veya yeni taşınabilir uygulamayı kullan.** Önce açık oyunu kapat. Oyun HTML güncellemesi eski EXE dosyasını değiştirmez. Kayıtlar aynı yerde korunur.
-
-- [Kurulum ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
-- [Kurulumsuz uygulama ZIP dosyası](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu](https://github.com/erenbaha/astral-duello/releases/download/v0.8.54/Astral-Duello-v0.8.54.html)
-- [Tüm sürümler ve güncelleme notları](https://github.com/erenbaha/astral-duello/releases)
-- [v0.1–v0.8.17 arşivi](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.17)
-
-Kurulumsuz sürümün ZIP dosyasını tamamen çıkarıp `Astral-Duello/Astral-Duello.exe` dosyasını aç. Kurulum sürümünde ZIP içindeki kurulum EXE dosyasını çalıştır. Windows 10/11 64 bit içindir.
-
-## Otomatik oyun güncellemeleri
-
-v0.8.28 uygulaması her açılışta herkese açık şu adresi kontrol eder:
-
-```text
 https://github.com/erenbaha/astral-duello/releases/latest/download/latest.json
-```
 
-GitHub hesabı, giriş veya erişim anahtarı gerekmez. Windows ağ/proxy ayarları kullanılır. Geçici bağlantı hatasında bir kez yeniden denenir; ana bildirim erişilemiyorsa [herkese açık yedek bildirim](https://raw.githubusercontent.com/erenbaha/astral-duello/main/latest.json) kullanılır. Hata ayrıntısı ayarlarda gösterilir. Açılış kontrolü uzarsa **Oyunu başlat** ile mevcut sürüm açılabilir; aktif düello indirme bittiğinde yeniden yüklenmez.
+GitHub hesabı veya erişim anahtarı gerekmez. [Yedek bildirim](https://raw.githubusercontent.com/erenbaha/astral-duello/main/latest.json) aynı imzayı taşır. Boyut, SHA-256 ve Ed25519 imzası doğrulanır. Ağ hatasında mevcut oyun korunur; etkin düello yeniden yüklenmez.
 
-Daha yeni bir oyun sürümü varsa boyutu, SHA-256 özeti ve Ed25519 imzası doğrulanarak indirilir. İnternet veya güncelleme hatasında mevcut oyunla devam edilir. Oyun kayıtları korunur. v0.8.17 uygulamasında aynı adres Ayarlar ekranına bir kez girilebilir.
-
-Bu sistem kartları, görselleri, oyun kurallarını ve oyun arayüzünü günceller. Electron ve yerel uygulama kabuğu değişiklikleri için yeni uygulama/kurulum paketi gerekir. EXE dosyaları ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin imzası ayrıdır.
-
-## Sürüm arşivi
-
-Önceki 26 sürümün HTML ve kaynak ZIP dosyaları, v0.8.17 uygulama/kurulum/yayın paketleriyle birlikte arşiv yayınında tutulur. Numaralı dosyalar değiştirilmeyerek korunur. Gelecek sürümler kendi etiketleri altında bu depoya eklenir.
-
-## Çevrimiçi bağlantı
-
-Eşleşme ve oda kodu için iki oyuncunun uyumlu oyun sürümü kullanması gerekir. Bazı NAT/güvenlik duvarı koşullarında ek bir TURN hizmeti gerekebilir.
-
-## Kaynak ve yayınlama
-
-Oyun ve masaüstü kaynak ZIP dosyaları sürüm eklerinde bulunur. Yayınlama yöntemi [GUNCELLEME-YAYINLAMA.md](GUNCELLEME-YAYINLAMA.md) dosyasındadır. Özel imzalama anahtarı bu depoya eklenmez.
+Kaynak/güncelleme ZIP'leri ve sağlama toplamları sürüm eklerindedir. Numaralı eski yayınlar korunur. [Yayınlama yöntemi](GUNCELLEME-YAYINLAMA.md). Özel anahtarlar ve oyuncu verileri yayınlara dahil değildir.
