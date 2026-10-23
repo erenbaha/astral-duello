@@ -1,8 +1,7 @@
 {
-  "version": "0.8.56",
-  "url": "https://github.com/erenbaha/astral-duello/releases/download/v0.8.56/Astral-Duello-v0.8.56.html",
-  "sha256": "bb52731b2f11642c483bfff2214789ed45a19189f5408a5461f9d15dc97f6143",
-  "size": 100895261,
-  "signature": "5QCZw1o07DXS5Bq6KAMvZ9Cox3VlVaQSyAiaEeE0xzdbWvb2Ibv9+GrYG9mhLruAko8MOG0zqtffoYC70MQzBg=="
+  "version": "0.8.57",
+  "url": "https://github.com/erenbaha/astral-duello/releases/download/v0.8.57/Astral-Duello-v0.8.57.html",
+  "sha256": "b55e9d6ecb8935919c2cdf030016ab838636992b278eba7c978090c7f14aa630",
+  "size": 100896418,
+  "signature": "wa9iTeA10+WuequYVJqJ5O2/K3+fcgESnm5vEXGEwh0AXIPyY0ceCZp/lOKZLZUaR4oVHYBCbiNfgls6yTubCQ=="
 }
-
