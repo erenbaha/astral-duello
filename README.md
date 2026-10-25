@@ -2,9 +2,9 @@
 
 Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya oda kodu/rastgele eşleşmeyle çevrimiçi oynanabilir.
 
-## Güncel oyun · v0.8.59 / Windows uygulaması · v0.8.28
+## Güncel oyun · v0.8.60 / Windows uygulaması · v0.8.28
 
-**466 yeni kart çizimi:** Toon olmayan bütün kartların görselleri daha gerçekçi, elle boyanmış illüstrasyon görünümüyle yenilendi. Kütüphane, düello, hazır deste kapakları ve paket içerikleri güncel kart resimlerini kullanır. Kullanıcının isteğiyle mevcut 30 Toon kartının resimleri korunur. Kart kimlikleri, etkiler, nadirlikler, sahiplikler, bakiyeler, kişisel desteler ve paket stokları aynı kalır.
+**Klasik çizgi film Toon’ları:** 30 Toon kartının görselleri elle çizilmiş klasik iki boyutlu çizgi film görünümüyle yenilendi. Belirgin mürekkep konturlar, sade boyalı renkler, abartılı ifadeler ve komik hareketler kullanılır. Toon canavarları, dört Füzyon, altı Büyü ve dört Tuzak bu yenilemeye dahildir. Diğer 466 kartın v0.8.59 görselleri aynıdır. Kart adları, etkiler, istatistikler, nadirlikler, sahiplikler, bakiyeler, kişisel desteler ve paket stokları korunur.
 
 **Deste üstü kart menüsü:** Düelloda kart seçilince oynama, etki ve **Saldır** seçenekleri kendi kapalı destenin üstündeki menüde görünür. Hedef/kurban seçimi ve tuzak onayı da aynı bölgede ilerler; panel seçilebilir kartı kapatırsa yukarı kayar. Sol panel kart bilgisini gösterir. Mobilde seçim sol pencereyi kendiliğinden açmaz; tuzak onayında görsel ve etki menüde incelenir.
 
@@ -26,17 +26,17 @@ Windows için kart düellosu oyunu. Yapay zekâya karşı çevrimdışı veya od
 
 **Sahiplik geçişi:** Yeni 230 kart paket veya deste edinilmeden ücretsiz verilmez. Önceki v0.8.51 genişlemesinin 100 kartı tüm hesapların sahipliğinden bir defa kaldırılır; katalogdan silinmez, yeniden edinilebilir. Bakiyeler, diğer kartlar ve kişisel deste tanımları korunur; eksik kartlı desteler eksik görünür. Eski cihaz eşitlemesi veya eski hazır deste kayıtları bunları kendiliğinden geri vermez. Güncel sunucuya kayıt göndermek için **v0.8.56** gerekir.
 
-**Doğrulama:** v0.8.59 için 56 yerel kontrol geçti: 496 resmin gerçek arayüzde çözümlenmesi; 466 değişen ve 30 korunan resim; 23 düello eylemi, 5 görsel arayüz, 9 Admin arayüzü, 7 Admin katalog, 5 HTML, 6 gizlilik ve 1 imza kontrolü. Masaüstü/tablet/telefonda çağırma, saldırı, kurban ve tuzak onayı denendi. Önceki 278 numaralı dosya ve mevcut Windows uygulaması korundu.
+**Doğrulama:** v0.8.60 için 48 yerel kontrol geçti: 23 düello eylemi, 5 görsel arayüz, 7 Admin katalog, 5 HTML, 6 gizlilik, 1 imza ve 1 çalışma kodunu koruma kontrolü. 496 resim gerçek arayüzde çözümlendi; 30 Toon resmi değişti ve diğer 466 resim korundu. Toon Füzyon malzemeleri ve küçük/büyük kartlar denendi. 29 gömülü çalışma betiği önceki sürümle byte düzeyinde aynıdır. Önceki 285 numaralı dosya ve mevcut Windows uygulaması korundu.
 
 ## İndir ve başlat
 
 - [Windows kurulum ZIP dosyası · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Kurulum-v0.8.28.zip)
 - [Kurulumsuz Windows uygulaması · v0.8.28](https://github.com/erenbaha/astral-duello/releases/download/v0.8.28/Astral-Duello-Uygulama-v0.8.28.zip)
-- [Tek dosyalık HTML oyunu · v0.8.59](https://github.com/erenbaha/astral-duello/releases/download/v0.8.59/Astral-Duello-v0.8.59.html)
-- [v0.8.59 dosyaları ve sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.59)
+- [Tek dosyalık HTML oyunu · v0.8.60](https://github.com/erenbaha/astral-duello/releases/download/v0.8.60/Astral-Duello-v0.8.60.html)
+- [v0.8.60 dosyaları ve sürüm notları](https://github.com/erenbaha/astral-duello/releases/tag/v0.8.60)
 - [Tüm sürümler](https://github.com/erenbaha/astral-duello/releases)
 
-Windows 10/11 64 bit içindir. Kurulum ZIP'ini çıkarıp içindeki kurulum EXE dosyasını çalıştır. Kurulumsuz ZIP'i tamamen çıkarıp Astral-Duello/Astral-Duello.exe dosyasını aç. Mevcut v0.8.28 uygulaması imzalı içerik güncellemesiyle oyun v0.8.59 sürümünü alır; yeniden kurulum gerekmez. Eski EXE'de Geri/Oyunu başlat sorunu varsa v0.8.28 kurulumunu bir kez yükle. EXE ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin Ed25519 imzası ayrıdır.
+Windows 10/11 64 bit içindir. Kurulum ZIP'ini çıkarıp içindeki kurulum EXE dosyasını çalıştır. Kurulumsuz ZIP'i tamamen çıkarıp Astral-Duello/Astral-Duello.exe dosyasını aç. Mevcut v0.8.28 uygulaması imzalı içerik güncellemesiyle oyun v0.8.60 sürümünü alır; yeniden kurulum gerekmez. Eski EXE'de Geri/Oyunu başlat sorunu varsa v0.8.28 kurulumunu bir kez yükle. EXE ticari Authenticode sertifikasıyla imzalanmamıştır; oyun içeriğinin Ed25519 imzası ayrıdır.
 
 ## Hesaplar ve oyun
 
